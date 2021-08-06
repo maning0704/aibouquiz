@@ -1,0 +1,28 @@
+h1{
+    width: 500px;
+    padding: auto;
+    text-align: center;
+    display: block;
+    color: darkred;
+    border-bottom: 2px solid gold;
+}
+.accordion{
+    width: 500px;
+    margin: 0 aouto;
+}
+
+.accordion-trigger{
+    margin: 0;
+    padding: 10px;
+    display: block;
+    background: #333;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+.accordion-contents{
+    margin: 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    display: none;
+}
